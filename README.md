@@ -56,6 +56,10 @@ This tool outputs multiple useful information such as:
 
 * Each diseases name and symptoms along with their matching medical code (if any).
 
+## Hope it saved someone's time.
+
+### Usage:
+When using or modifying this tool do always give appropriate credit.
 
 ### References:
 * [Pandas Library](https://pandas.pydata.org/).
